@@ -1,26 +1,29 @@
-## Student Name (or name you would preferred to be called)
+## Jonathon Sullivan
 
 ### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Science
 
-- Course 2
+- Intro to Computation and Programming
 
-- Course 3
+- Python
 
-- Course 4
+- Analytic Geometry and Calculus 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Fishing
 
-- Thing 2
+- reading
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
+
+
+
 
 ***
 
